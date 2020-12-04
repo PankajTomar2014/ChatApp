@@ -1,0 +1,19 @@
+{
+  "name": "tomar",
+  "version": "4.21.2",
+  "description": "new chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^3.0.3"
+  }
+}
